@@ -1,30 +1,24 @@
-# Smart farming dashboard
+🌱 AgriSense: AI-Powered Smart Farming Application
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+AgriSense is a web-based platform designed to assist farmers and agricultural professionals in making data-driven decisions for improved productivity and crop health.
+By leveraging Artificial Intelligence, the platform provides crucial insights into crop recommendations, soil health, and disease detection — empowering modern agriculture with smarter technology.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sunandha2916-1995s-projects/v0-smart-farming-dashboard)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/ygxMMZuDkdF)
+🌾 About the Project
 
-## Overview
+Farming today faces critical challenges — from soil nutrient imbalances to unpredictable plant diseases.
+AgriSense was built to tackle these issues by offering a user-friendly and intelligent system that helps users take informed actions based on real-time data.
+The platform caters to tech-savvy farmers, traditional agriculturists, agricultural consultants, and students seeking smart solutions for sustainable farming.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+✨ Key Features
 
-## Deployment
+Personalized Dashboard
+Displays a real-time overview of the farm, including primary crop, farm area, temperature, and humidity levels.
 
-Your project is live at:
+AI Crop Recommendations
+Suggests the most suitable crops for a given soil and climate profile, along with confidence scores and reasons for recommendation.
 
-**[https://vercel.com/sunandha2916-1995s-projects/v0-smart-farming-dashboard](https://vercel.com/sunandha2916-1995s-projects/v0-smart-farming-dashboard)**
+Soil Nutrient Analysis
+Shows detailed soil composition for Nitrogen (N), Phosphorus (P), and Potassium (K) levels, labeling them as “Optimal” or “Low,” and providing specific fertilizer recommendations to improve soil quality.
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/ygxMMZuDkdF](https://v0.app/chat/projects/ygxMMZuDkdF)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Plant Disease Detection
+Enables users to upload a leaf image and get an instant AI-based diagnosis with confidence percentage, detected disease name, and recommended treatment measures.
